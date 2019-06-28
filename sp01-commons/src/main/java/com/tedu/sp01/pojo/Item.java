@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
-	//积分都快来减肥
+	//积分都快来减肥粑粑
 	//编号89757
 	private Integer id;
 	private String name;
