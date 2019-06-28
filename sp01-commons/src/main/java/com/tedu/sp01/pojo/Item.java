@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Item {
 	//编号89757
-	//编号哈哈
 	private Integer id;
 	private String name;
 	private Integer number;
